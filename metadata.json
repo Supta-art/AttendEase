@@ -1,0 +1,6 @@
+{
+  "name": "AttendEase",
+  "description": "Employee attendance tracking system with admin and employee portals, QR code daily check-in, profile photo verification, leave requests, and automated monthly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
